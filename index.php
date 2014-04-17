@@ -1,9 +1,12 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: designstudio_11
- * Date: 01/04/2014
- * Time: 14:18
- */
+    include('assets/includes/top.inc');
+?>
+<title>Welcome To Arrow Photography</title>
+<?php
+    include_once('assets/includes/header.inc');
+?>
+<h2>Welcome To Our Site</h2>
 
-
+<?php
+    include_once('assets/includes/footer.inc');
+?>
